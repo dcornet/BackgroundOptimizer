@@ -1,6 +1,7 @@
 # Optimal Background Selector for Image Analysis Experiments
 
 This repository provides a tool to help users identify the best background colors for image analysis experiments. It utilizes advanced color science techniques to ensure the selected backgrounds are distinguishable from object colors, enhancing the reliability of image analysis.
+<img src="doc/pipeline.png" alt="Pipeline Diagram" width="500" />
 
 ---
 
